@@ -58,6 +58,4 @@ I like building things across the stack — backend, frontend, and platform stuf
 
 ## AI & The Craft
 
-AI is changing how software is built, and I'm here for it. But I also think the best thing you can do right now is get really good at the craft itself. AI makes you faster — understanding makes you dangerous.
-
----
+AI is changing how software is built, and I'm here for it. But I also think the best thing you can do right now is get really good at the craft itself. AI makes you faster but understanding makes you dangerous.
